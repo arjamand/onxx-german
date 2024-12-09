@@ -1,0 +1,15 @@
+https://download.pytorch.org/whl/cpu/torch-1.13.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchaudio-0.13.1%2Bcpu-cp38-cp38-linux_x86_64.whl
+
+https://huggingface.co/csukuangfj/wheels/resolve/main/2023-01-30/k2-1.23.4.dev20230130%2Bcpu.torch1.13.1-cp38-cp38-linux_x86_64.whl
+https://huggingface.co/csukuangfj/wheels/resolve/main/2023-01-30/k2_sherpa-1.1-cp38-cp38-linux_x86_64.whl
+https://huggingface.co/csukuangfj/wheels/resolve/main/2023-01-30/kaldifeat-1.22-cp38-cp38-linux_x86_64.whl
+
+sentencepiece>=0.1.96
+numpy
+
+huggingface_hub
+
+#https://huggingface.co/csukuangfj/sherpa-onnx-wheels/resolve/main/cpu/1.10.28/sherpa_onnx-1.10.28-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+
+sherpa-onnx>=1.10.30
